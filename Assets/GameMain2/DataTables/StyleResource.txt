@@ -1,0 +1,4 @@
+#StyleId	StyleName	Block	Chessboard	PlaceTip	TipNewBase	TipUnbelievable	TipCompliment	ComboEffect	TopUI	BottomUI	Background	PlaceTipBlock	ChessBlock	ScoreTip
+#风格ID	风格名称	块	棋盘	棋盘上块放置前阴影	新纪录提示	提示	高光时刻提示	combo提示	顶部UI	底部UI	背景	放块提示	棋盘上一块	加分提示
+0	LegendStyle	Block_1	Checkerboard_4	Block_tip_3	NewBest	Unbelievable	Compliment	ComboEff_3	UI_top_3	UI_bottom_3	UI_bg_1	placeTipBlock	ChessBlock	Add_Score_1
+1	X2Style	Block_4	Checkerboard_1	Block_tip_4	NewBest_2	Unbelievable_2	Compliment_2	ComboEff_2	UI_top_4	UI_bottom_4	UI_bg_2	placeTipBlock_2	ChessBlock_2	Add_Score_2
